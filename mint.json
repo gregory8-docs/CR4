@@ -1,0 +1,36 @@
+{
+    "colors":  {
+                   "dark":  "#0D9373",
+                   "primary":  "#0D9373",
+                   "light":  "#07C983"
+               },
+    "logo":  {
+                 "light":  "/logo/light.svg",
+                 "dark":  "/logo/dark.svg"
+             },
+    "topbarLinks":  [
+                        {
+                            "name":  "GitHub",
+                            "url":  "https://github.com/gregory8-docs/CR4"
+                        }
+                    ],
+    "name":  "CR4 Documentation",
+    "favicon":  "/favicon.png",
+    "footerSocials":  {
+                          "github":  "https://github.com/gregory8-docs/CR4"
+                      },
+    "navigation":  [
+                       {
+                           "pages":  [
+                                         {
+                                             "page":  "Introduction",
+                                             "path":  "docs/introduction.mdx"
+                                         }
+                                     ],
+                           "group":  "Getting Started"
+                       }
+                   ],
+    "tabs":  [
+
+             ]
+}

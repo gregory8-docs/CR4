@@ -1,0 +1,15 @@
+{
+    "version":  "1.0.0",
+    "name":  "cr4-docs",
+    "description":  "CR4 Documentation",
+    "scripts":  {
+                    "dev":  "mintlify dev",
+                    "build":  "mintlify build"
+                },
+    "dependencies":  {
+
+                     },
+    "devDependencies":  {
+                            "mintlify":  "latest"
+                        }
+}
